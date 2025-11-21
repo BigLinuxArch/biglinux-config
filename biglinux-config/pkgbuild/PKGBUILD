@@ -1,8 +1,8 @@
 # Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
 pkgname=biglinux-config
-pkgver=
-pkgrel=
+pkgver=2024_05_19
+pkgrel=0809
 arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/biglinux-config"
